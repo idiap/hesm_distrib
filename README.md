@@ -17,7 +17,7 @@ After setting up the physical system, see `readme` files within each folder for 
 
 ### Supported platforms
 These instructions are meant for Debian distributions of Linux (tested on Debian Stretch (4.9) and Ubuntu 16.04 LTS). The data processing should work on all platforms. The data acquisition should work on Windows (the wrapping of the `C++` code can be tricky), for macosX, the required `ueye` library isn't available. 
-If anyone has a way to drive a Thorcam USB3 camera on macosX, please [let me know](mailto:christian.jaques@idiap.ch).
+If someone has a way to drive a Thorcam USB3 camera on macosX, I'd be very grateful if you [let me know](mailto:christian.jaques@idiap.ch).
 
 ## System setup
 
@@ -26,7 +26,7 @@ If anyone has a way to drive a Thorcam USB3 camera on macosX, please [let me kno
 The repository includes a submodule with the data, so to retrieve everything, you have to run 
 
 ```bash 
-git clone --recursive git@gitlab.idiap.ch:cjaques/hesm_distrib.git
+git clone --recursive https://github.com/idiap/hesm_distrib.git
 ```
 
 or if you have cloned the repository without the submodules, from within the repo, run 
