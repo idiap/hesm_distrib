@@ -1,0 +1,10 @@
+.idea/
+*.pyc
+*.npy
+*.tif
+*.tiff
+*.eps
+.ipynb_checkpoints/
+.idea/
+.DS_Store
+.vscode/

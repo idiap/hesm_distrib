@@ -1,0 +1,3 @@
+[submodule "hesm_distrib_data"]
+	path = hesm_distrib_data
+	url = https://github.com/idiap/hesm_distrib_data
