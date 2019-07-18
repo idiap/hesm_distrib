@@ -65,7 +65,7 @@ def IRLS(A, b, p, delta=1e-6, tolerance=1e-2, eps0=1, delta_eps=100,
             A_ls[i] *= w[i]
         b_ls = np.multiply(w, b)
         # solve weighted least-square
-        x = np.array(lstsq(A_ls, b_ls, rcond=None)[0])
+        x = np.array(lstsq(A_ls, b_ls)[0])
         # compute new weights
         err = np.abs(A_ls.dot(x) - b_ls)
         err_curr = np.sum(err)
