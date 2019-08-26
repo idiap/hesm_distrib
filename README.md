@@ -1,5 +1,8 @@
 # Temporal Super-Resolution Microscopy Using a Hue-Encoded Shutter
-## OSA Biomedical Optics Express Vol XXXX 2019
+## OSA Biomedical Optics Express Volume 10 Issue 09, September 2019
+
+[https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-9-4727](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-9-4727)
+
 **Authors of the paper**:
 
 - [Christian Jaques](mailto:christian.jaques@idiap.ch), [Idiap](https://www.idiap.ch), [EPFL](https://www.epfl.ch): [personnal page at Idiap](https://www.idiap.ch/~cjaques). Do not hesitate to [contact me](mailto:christian.jaques@idiap.ch).
